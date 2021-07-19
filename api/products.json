@@ -1,0 +1,117 @@
+{
+    "products": [
+        {
+            "name": "Marvis",
+            "id": 0,
+            "brand": [
+                { "name": "Marvis Whitening" },
+                { "name": "Mint Toothpaste" }
+            ],
+            "price": 995
+        },
+        {
+            "name": "Aesop",
+            "id": 1,
+            "brand": [
+                { "name": "Resurrection" },
+                { "name": "Aromatic Hand Wash" }
+            ],
+            "price": 3999
+        },
+        {
+            "name": "Stop the Water while using me",
+            "id": 2,
+            "brand": [
+                { "name": "Shampoo" }
+            ],
+            "price": 2999
+        },
+        {
+            "name": "VAAY",
+            "id": 4,
+            "brand": [
+                { "name": "VAAY X ITM.UG" },
+                { "name": "BERLIN" }
+            ],
+            "price": 999
+        },
+        {
+            "name": "Aesop",
+            "id": 5,
+            "brand": [
+                { "name": "Resurrection" },
+                { "name": "Aromatic Hand Wash" }
+            ],
+            "price": 3999
+        },
+        {
+            "name": "Stop the Water while using me",
+            "id": 6,
+            "brand": [
+                { "name": "Shampoo" }
+            ],
+            "price": 2999
+        },
+        {
+            "name": "VAAY",
+            "id": 7,
+            "brand": [
+                { "name": "VAAY X ITM.UG" },
+                { "name": "BERLIN" }
+            ],
+            "price": 999
+        },
+        {
+            "name": "Aesop",
+            "id": 8,
+            "brand": [
+                { "name": "Resurrection" },
+                { "name": "Aromatic Hand Wash" }
+            ],
+            "price": 3999
+        },
+        {
+            "name": "Stop the Water while using me",
+            "id": 9,
+            "brand": [
+                { "name": "Shampoo" }
+            ],
+            "price": 2999
+        },
+        {
+            "name": "VAAY",
+            "id": 10,
+            "brand": [
+                { "name": "VAAY X ITM.UG" },
+                { "name": "BERLIN" }
+            ],
+            "price": 999
+        },
+        {
+            "name": "Aesop",
+            "id": 11,
+            "brand": [
+                { "name": "Resurrection" },
+                { "name": "Aromatic Hand Wash" }
+            ],
+            "price": 3999
+        },
+        {
+            "name": "Stop the Water while using me",
+            "id": 12,
+            "brand": [
+                { "name": "Shampoo" }
+            ],
+            "price": 2999
+        },
+        {
+            "name": "VAAY",
+            "id": 13,
+            "brand": [
+                { "name": "VAAY X ITM.UG" },
+                { "name": "BERLIN" }
+            ],
+            "price": 999
+        }
+    ]
+}

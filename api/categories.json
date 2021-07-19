@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "name": "All Products",
+            "id": "all"
+        },
+        {
+            "name": "Shampoo",
+            "id": "shampo--o",
+            "productIds": [ 0, 2, 4, 5 ]
+        },
+        {
+            "name": "Handwash",
+            "id": "hand-wash",
+            "productIds": [ 1, 6, 7, 8 ]
+        },
+        {
+            "name": "Handwash",
+            "id": "hand-wash--o",
+            "productIds": [ 3, 10 ]
+        },
+        {
+            "name": "Shampoo",
+            "id": "shampoo--o",
+            "productIds": [ 4, 11, 12, 13 ]
+        }
+    ]
+}
